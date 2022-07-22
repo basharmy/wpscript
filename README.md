@@ -1,0 +1,2 @@
+# wpscript
+wordpress install script
